@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Marceliux, Full Stack Web Dev located in *Alajuela, Costa Rica*
 - 👀 I’m interested in React, Nextjs, VanillaJS, Nodejs
-- 🌱 I’m currently learning Python, React Native, Docker, Kubernetes
+- 🌱 I’m currently learning Cypress, Docker, Kubernetes
 - 💞️ I’m looking to collaborate on any of my Open Source projects: BoilerLog and Quichel
 - 📫 How to reach me: marceliux@tutamail.com
 
