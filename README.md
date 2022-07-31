@@ -1,6 +1,6 @@
 ## Welcome to my profile
 
-- 👋 Hi, I’m @Marceliux, Full Stack Web Dev located in *Alajuela, Costa Rica*
+- 👋 Hi, I’m @Marceliux, Full Stack Web Dev.
 - 👀 I have real life experience with technologies like:  
   - React
   - Nextjs
