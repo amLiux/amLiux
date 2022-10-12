@@ -9,7 +9,6 @@
   - GraphQL
   - MongoDB
   - Jest
-  - MongoDB
   - Express
   - SQL
   - MySQL
