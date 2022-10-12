@@ -10,10 +10,12 @@
   - MongoDB
   - Jest
   - MongoDB
-  - Jest
+  - Express
+  - SQL
+  - MySQL
 - 🔊 I fluently speak Portuguese, English and Spanish. 
-- 🌱 I’m currently learning Cypress, Docker, Kubernetes
-- 💞️ I’m looking to collaborate on any of my Open Source projects: BoilerLog and JardinBinario
+- 🌱 I’m currently learning Cypress, Docker, Kubernetes, Python
+- 💞️ I’m looking to collaborate on any of my Open Source projects: JardinBinario, quichel
 - 📫 How to reach me: marceliux@tutamail.com
 <!---
 Marceliux/Marceliux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
