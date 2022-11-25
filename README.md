@@ -1,6 +1,6 @@
 ## Welcome to my profile
 
-- 👋 Hi, I’m @Marceliux, Full Stack Web Dev.
+- 👋 Hi, I’m @amLiux, Full Stack Web Dev.
 - 👀 I have real life experience with technologies like:  
   - React
   - Nextjs
@@ -17,6 +17,6 @@
 - 💞️ I’m looking to collaborate on any of my Open Source projects: JardinBinario, quichel
 - 📫 How to reach me: marceliux@tutamail.com
 <!---
-Marceliux/Marceliux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+amLiux/amLiux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
