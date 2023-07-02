@@ -13,7 +13,7 @@
   - SQL
   - MySQL
 - 🔊 I fluently speak Portuguese, English and Spanish. 
-- 🌱 I’m currently learning Python, Docker and Kubernetes
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any of my Open Source projects: JardinBinario, quichel
 - 📫 How to reach me: marceliux@jardinbinario.com
 <!---
