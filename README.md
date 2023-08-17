@@ -28,11 +28,11 @@
 
 ```js
 const oneLastThing = () => {
-	console.log('También hablo español e português, muito prazer');
-	return {
-		goodLuck: true,
-		thanksForVisiting: true,
-	};
+  console.log('También hablo español e português, muito prazer');
+  return {
+    goodLuck: true,
+    thanksForVisiting: true,
+  };
 };
 
 oneLastThing();
